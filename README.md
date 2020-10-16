@@ -5,5 +5,6 @@ A collection of information on the world's dotfiles, rc files, yaml and json con
 ## Web Development
 
 [browserslist](browserslist.md)
+
 [.gitignore](gitignore.md)
 

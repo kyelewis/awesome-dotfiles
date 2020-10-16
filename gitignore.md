@@ -17,7 +17,7 @@ Git looks for gitignore settings:
 
 ## How To Use It
 
-    # Example gitignore file
+    # An example gitignore file
    
     *.json              # Ignore any .json files
     !thisfile.json      # But, don't ignore this one
