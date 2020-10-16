@@ -6,5 +6,5 @@ A collection of information on the world's dotfiles, rc files, yaml and json con
 
 [browserslist](browserslist.md)
 
-[.gitignore](gitignore.md)
+[.gitignore](git_ignore.md)
 
