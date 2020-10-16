@@ -47,8 +47,8 @@ The available queries include:
 
 **Global usage statistics**
 
-    > 5%
-    > 10% in UK
+     > 5%
+     > 10% in UK
 
 **Relative versions**
 
@@ -65,5 +65,5 @@ The available queries include:
     since 2018
     last 5 years
 
-## Sources ##
+## Sources
 [Official browserslist Project Github](https://github.com/browserslist/browserslist)
