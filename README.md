@@ -8,3 +8,11 @@ A collection of information on the world's dotfiles, rc files, yaml and json con
 
 [.gitignore](gitignore.md)
 
+[.editorconfig](editorconfig.md)
+
+[.flowconfig](flowconfig.md)
+
+
+## Compilation
+
+[Makefile](Makefile.md)
